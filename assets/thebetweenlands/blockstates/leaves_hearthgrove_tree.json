@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"all": "thebetweenlands:leaves_hearthgrove_tree",
+			"tips": "thebetweenlands:leaves_hearthgrove_tree"
+		}
+	}
+}
