@@ -1,0 +1,29 @@
+{
+  "forge_marker":1,
+  "variants": {
+    "decayable": {
+      "true": {},
+      "false": {}
+    },
+    "check_decay": {
+      "true": {},
+      "false": {}
+    },
+    "type": {
+      "ironwood": {
+        "textures": {
+          "all": "primal:blocks/plants/leaves_ironwood",
+		  "tips": "primal:blocks/plants/leaves_ironwood"
+        },
+        "model": "leaves"
+      },
+      "yew": {
+        "textures": {
+          "all": "primal:blocks/plants/leaves_yew",
+		  "tips": "primal:blocks/plants/leaves_yew"
+        },
+        "model": "leaves"
+      }
+    }
+  }
+}
